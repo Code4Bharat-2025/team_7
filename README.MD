@@ -1,6 +1,7 @@
 World-City Explorer -- Travel the World, One Message at a Time
-      A Chat BOT that let's user type any city/country and get quick facts , nearby hubs , location data, population etc details.
-      This helps one to learn fun facts aout places around the world in form of gamification.
+
+A Chat BOT that let's user type any city/country and get quick facts , nearby hubs , location data, population etc details.
+This helps one to learn fun facts aout places around the world in form of gamification.
 
 Below details out how to start and get going with the World-City Explorer Chat BOT:
 
